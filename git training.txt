@@ -1,0 +1,22 @@
+git-scm.com, install
+Sign-up/Sign-In
++ (Create New Repository)
+Repository Name
+-> check Initialise
+-> Create Repository
+Go to Repository
+-> Clone (copy url)
+Local Disk -> Git Bash Here (Right Click)
+--------------
+Commands 
+---------------
+git clone url
+cd Foldername, dir
+git add -A (A= all files)
+git commit -m "Hello" (m= messege)
+-> After successfull commit
+git push origin master
+--------------------------------
+Refresh your github page
+Overview
+Github Commands
